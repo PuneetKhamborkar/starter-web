@@ -13,3 +13,6 @@ Enough is Enough.
 
 ## Conclusion
 This is a conclusion.
+
+### Copyright
+Copyright Notice.
