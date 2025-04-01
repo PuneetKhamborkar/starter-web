@@ -3,11 +3,11 @@
 
 # TEAM
 
-    Puneet	PSK	psk
+    PSK	PSK	psk
 
 # THANKS
 
-    Puneet Khamborkar and love
+    Puneet Suresh Khamborkar and Family
 
 # TECHNOLOGY COLOPHON
 
