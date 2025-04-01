@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Puneet	PSK	psk
+    Puneet	PSK Psk
 
 # THANKS
 
