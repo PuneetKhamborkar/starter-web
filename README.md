@@ -15,4 +15,4 @@ Enough is Enough.
 This is a conclusion.
 
 ### Copyright
-Copyright Notice.
+Copyright Notice for 2025.
