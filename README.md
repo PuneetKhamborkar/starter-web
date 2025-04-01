@@ -9,5 +9,7 @@ Sample website with plenty of files for demos.
 ## Deployment
 Deployment is needed.
 
+Enough is Enough.
+
 ## Conclusion
-THis is a conclusion.
+This is a conclusion.
