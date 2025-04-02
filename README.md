@@ -17,6 +17,7 @@ This is a conclusion.
 
 ### Copyright
 Copyright Notice for 2025.
+All rights reserved.
 
 ## Trail
 This is a trial version.
