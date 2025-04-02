@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Puneet	PSK Psk PUneet SUresh KHAmborkar , i am puneet.
 
 # THANKS
 
-    <name>
+    Puneet Khamborkar and alpha detla charlie
 
 # TECHNOLOGY COLOPHON
 
