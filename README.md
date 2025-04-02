@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work. Please go through it. Rebasing file example, and creating conflict.
-
+for Stashing purpose.
 
 ## Purpose
 
